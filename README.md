@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ges-splatting-jupyter/blob/main/ges_splatting_jupyter.ipynb) | ges_splatting_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ges-splatting-jupyter/blob/main/ges_splatting_viewer_jupyter.ipynb) | ges_splatting_viewer_jupyter
 
 ### 🧬 Code
 https://github.com/ajhamdi/ges-splatting
