@@ -18,8 +18,11 @@ https://arxiv.org/abs/2402.10128
 ### 🌐 Page
 https://abdullahamdi.com/ges/
 
+### 💬 Post
+https://twitter.com/camenduru/status/1758844915616804947
+
 ### 🖼 Output
 ![Screenshot 2024-02-17 1548078](https://github.com/camenduru/ges-splatting-jupyter/assets/54370274/2c4db21d-a139-45e4-a815-4158d9851b7b)
 
 ### 🏢 Sponsor
-https://replicate.com
+https://modelslab.com

@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/draft-04/hyper-schema#",
+    "type": "object",
+    "properties": {
+      "readme": {
+        "type": "string",
+        "title": "GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering",
+        "author": "Abdullah Hamdi, Luke Melas-Kyriazi, Guocheng Qian, Jinjie Mai, Ruoshi Liu, Carl Vondrick, Bernard Ghanem, Andrea Vedaldi",
+        "code": "https://github.com/ajhamdi/ges-splatting",
+        "paper": "https://arxiv.org/abs/2402.10128",
+        "page": "https://abdullahamdi.com/ges/",
+        "jupyter": "https://github.com/camenduru/ges-splatting-jupyter",
+        "post": "https://twitter.com/camenduru/status/1758844915616804947",
+        "tags": [
+          "Image to 3D Splatting"
+        ],
+        "widget": "readme"
+      }
+    }
+  }
